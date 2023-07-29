@@ -1,0 +1,38 @@
+1.What is JSX?
+Ans:
+
+2.SuperPowers of JSX:-
+Ans:
+
+3.Role of type attribute in script tag? What options can i use there?
+Ans:
+
+4.{TitleComponent} vs {<TitleComponent />} vs {<TitleComponent></TitleComponent>} in JSX
+
+===================================================================================================
+Coding Assignment:
+===================================
+1. Create a nested Header element using React.createElement(h1, h2, h3 inside a div with class "title")
+Ans.
+
+1.1. create the same element using JSX
+Ans:
+
+1.2. Create a functional component of the same with JSX 
+Ans:
+
+1.3. Pass attributes into the tag in JSX
+Ans:
+
+1.4. Composition of Component (Add a component inside another)
+Ans:
+
+2. Create a Header Component from Scratch using Functional Components with JSX
+   > Add a Logo on left
+   > Add a search bar in middle
+   > Add a user icon on right
+   > Add CSS to make it look nice
+
+
+
+
